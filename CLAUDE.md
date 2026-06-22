@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A browser-based Brick Breaker game built as a single self-contained HTML file (`brickbreaker.html`). No build tools, bundler, or dependencies — just vanilla HTML/CSS/JavaScript with Canvas 2D rendering.
 
+## Workflow
+
+Commit and push to GitHub after every meaningful change. Use clear, descriptive commit messages. Never leave work uncommitted — progress should always be saved to the remote so nothing is lost.
+
 ## Running
 
 Open `brickbreaker.html` directly in a browser. No server required.
